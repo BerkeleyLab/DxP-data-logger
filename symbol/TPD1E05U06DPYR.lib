@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TPD1E05U06DPYR
+#
+DEF TPD1E05U06DPYR D 0 40 Y Y 1 L N
+F0 "D" -300 120 50 H V L BNN
+F1 "TPD1E05U06DPYR" -301 -201 50 H V L BNN
+F2 "SON65P60X100X45-2N" 0 0 50 H I L BNN
+F3 "Texas Instruments" 0 0 50 H I L BNN
+F4 "1 Channel Ultra Low Capacitance IEC ESD Protection Diode 2-X1SON -40 to 125" 0 0 50 H I L BNN
+F5 "296-39341-1-ND" 0 0 50 H I L BNN
+F6 "XDFN-2 Texas Instruments" 0 0 50 H I L BNN
+F7 "TPD1E05U06DPYR" 0 0 50 H I L BNN
+F8 "https://www.digikey.com/product-detail/en/texas-instruments/TPD1E05U06DPYR/296-39341-1-ND/5143293?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -300 100 300 100 N
+P 2 0 0 10 300 100 300 -100 N
+P 2 0 0 10 300 -100 -300 -100 N
+P 2 0 0 10 -300 -100 -300 100 N
+X I/O 1 -400 0 100 R 40 40 0 0 B 
+X GND 2 400 0 100 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

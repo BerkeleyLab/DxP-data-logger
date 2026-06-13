@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "parts")(type "KiCad")(uri "${KIPRJMOD}/parts.pretty")(options "")(descr ""))
+  (lib (name "TC2030-CTX")(type "Legacy")(uri "${KIPRJMOD}/parts.pretty/TC2030-CTX.mod")(options "")(descr ""))
+  (lib (name "Tag-Connect")(type "Legacy")(uri "${KIPRJMOD}/parts.pretty/Tag-Connect/Tag-Connect.mod")(options "")(descr ""))
+  (lib (name "TC2050-IDC")(type "Legacy")(uri "${KIPRJMOD}/parts.pretty/TC2050-IDC/TC2050-IDC.mod")(options "")(descr ""))
+  (lib (name "S2B-PH-SM4-TB_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/parts.pretty/S2B-PH-SM4-TB_LF__SN_.mod")(options "")(descr ""))
+  (lib (name "TPD1E05U06DPYR")(type "Legacy")(uri "${KIPRJMOD}/parts.pretty/TPD1E05U06DPYR/TPD1E05U06DPYR.mod")(options "")(descr ""))
+  (lib (name "loggerhw_v3")(type "KiCad")(uri "/Users/stijnwielandt/Bitbucket/thermalhardware2/loggerhw/loggerhw_v3")(options "")(descr ""))
+  (lib (name "loggerhw_v4")(type "KiCad")(uri "/Users/stijnwielandt/Documents/GitHub/DTP V3/loggerhw_v4.1 (LoRa ready)")(options "")(descr ""))
+  (lib (name "loggerhw_v5")(type "KiCad")(uri "/Users/stijnwielandt/Documents/GitHub/DTP V3/loggerhw_v5.0 (SD card)")(options "")(descr ""))
+)

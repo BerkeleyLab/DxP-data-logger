@@ -1,0 +1,10 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "parts") (type "Legacy") (uri "${KIPRJMOD}/symbol/parts.lib") (options "") (descr ""))
+	(lib (name "Tag-Connect") (type "Legacy") (uri "${KIPRJMOD}/symbol/Tag-Connect.lib") (options "") (descr ""))
+	(lib (name "rfm95") (type "Legacy") (uri "${KIPRJMOD}/symbol/rfm95.lib") (options "") (descr ""))
+	(lib (name "W25Q16BVSSIG") (type "Legacy") (uri "${KIPRJMOD}/symbol/W25Q16BVSSIG.lib") (options "") (descr ""))
+	(lib (name "TC2030-CTX") (type "Legacy") (uri "${KIPRJMOD}/symbol/TC2030-CTX.lib") (options "") (descr ""))
+	(lib (name "TPD1E05U06DPYR") (type "Legacy") (uri "${KIPRJMOD}/symbol/TPD1E05U06DPYR.lib") (options "") (descr ""))
+	(lib (name "loggerhw_v4.2-cache") (type "Legacy") (uri "/Users/stijnwielandt/gitlab/dxp-data-logger/loggerhw_v4.2-cache.lib") (options "") (descr "Legacy project cache library"))
+)
