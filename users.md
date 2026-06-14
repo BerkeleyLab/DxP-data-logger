@@ -8,8 +8,8 @@ Please edit this file via a PR (preferred) or open an issue: “Add me as a user
 If you’re unsure, approximations are welcome.
 
 ## User table
-| Name / Organization | First use (YYYY-MM) | Logger HW version | Boards built (approx.) | Purpose / Project description | Location (coarse) | Link (optional) |
-|---|---:|---|---|---|---|---|---|
+| Name / Organization | First use (YYYY-MM) | Logger HW version | Boards built (approx.) | Purpose / Project description | Location (coarse) | Link (optional) | Notes |
+|---|---:|---|---|---|---|---|---|---|
 | Lawrence Berkeley National Laboratory | 2019-09 | v3.0 | 100 | Subsurface temperature monitoring | Nome/Teller, AK, USA | [https://ngee-arctic.ornl.gov](https://ngee-arctic.ornl.gov) |
 | Lawrence Berkeley National Laboratory | 2019-09 | v3.0 | 100 | Subsurface temperature monitoring | Crested Butte, CO, USA | [https://watershed.lbl.gov](https://watershed.lbl.gov) |
 | Lawrence Berkeley National Laboratory | 2020-09 | v3.0 | 100 | Snow pack temperature monitoring | Nome/Teller, AK, USA | [https://ngee-arctic.ornl.gov](https://ngee-arctic.ornl.gov) |

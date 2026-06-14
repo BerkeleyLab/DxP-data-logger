@@ -1,11 +1,11 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.0-1348-g4ca769472)*
-G04 #@! TF.CreationDate,2021-05-22T02:12:44-07:00*
-G04 #@! TF.ProjectId,loggerhw_v4.2,6c6f6767-6572-4687-975f-76342e322e6b,rev?*
+G04 #@! TF.CreationDate,2021-05-21T20:59:56-07:00*
+G04 #@! TF.ProjectId,loggerhw_v5.0,6c6f6767-6572-4687-975f-76352e302e6b,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.0-1348-g4ca769472)) date 2021-05-22 02:12:44*
+G04 Created by KiCad (PCBNEW (5.1.0-1348-g4ca769472)) date 2021-05-21 20:59:56*
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*
