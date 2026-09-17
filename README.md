@@ -2,7 +2,10 @@
 
 This repository only contains the hardware for the DxP (Distributed sensor Profiling) data logger (i.e., the “logger / base station” main board that connects to a DxP sensor probe via a connector.
 
-The sensor probe / sensor-array board designs for DxP probes are released in a separate repository.
+The sensor probe / sensor-array board designs for DxP probes are released in a separate repository: **[DxP Sensor Probes](https://github.com/BerkeleyLab/DxP-sensor-probes)**.
+
+The firmware for the nRF52832 is released in a separate repository: **[DxP Firmware](https://github.com/BerkeleyLab/DxP-firmware)**.
+
 
 ---
 
